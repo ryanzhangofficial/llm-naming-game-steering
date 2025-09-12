@@ -1,0 +1,7 @@
+llama-cpp-python
+numpy
+pandas
+matplotlib
+tqdm
+huggingface_hub[cli]
+wandb
